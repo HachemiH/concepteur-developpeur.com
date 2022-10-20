@@ -39,7 +39,7 @@ NPX vous permettra ainsi de ne pas avoir à télécharger au préalable le paque
 
 Un package node est un fichier ou un dossier décrit par un fichier **package.json**.<br>
 Le fichier **package.json** va donner des informations à propos de votre package, c'est pourquoi il faut que ce fichier contienne les informations les plus détaillées possible.<br>
-Un package node peut être public ou bien privé [En savoir plus sur la visibilité des packages](https://docs.npmjs.com/about-private-packages), comme il peut être restreint à une certaine portée ou non [En savoir plus sur la portée des packages](https://docs.npmjs.com/about-scopes) 
+Un package node peut être public ou bien privé [En savoir plus sur la visibilité des packages](https://docs.npmjs.com/about-private-packages), comme il peut être restreint à une certaine portée ou non [En savoir plus sur la portée des packages](https://docs.npmjs.com/about-scopes)
 
 Un package node peut être tout ce qui suit (Et bien plus encore) :
 
@@ -106,7 +106,7 @@ Pour aborder ce qui suit, vous devez comprendre quelques termes :
 
 Recommandation : [Apprenez en plus sur les spécificités du Semantic Versioning](https://semver.org/)
 
-Voici les spécificités globales du versionnement sémantique : 
+Voici les spécificités globales du versionnement sémantique :
 
 - Il est recommandé de commencer le développement de votre package en version ``` 1.0.0 ```
 - Lorsque vous voudrez faire une mise à jour PATCH, votre package passera en version ``` 1.0.1 ```
@@ -155,3 +155,4 @@ Disclaimer : Les sources ci dessous sont exclusivement en anglais.<br>
 - [Le versionnement sémantique](https://semver.org/)
 - [La différence entre les champs ``` dependencies ``` et ``` devDependencies ```](https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
 - [Le fichier **package-lock.json**](https://docs.npmjs.com/cli/v8/configuring-npm/package-lock-json)
+- []
